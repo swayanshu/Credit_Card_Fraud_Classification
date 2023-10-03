@@ -13,7 +13,10 @@
 ### Data set: Fraud Detection - Credit Card in Kaggle
 #### Content:- The dataset contains all credit card transaction details.
 #### Details:- Except all columns class column denotes following:- Class 0 --> Non fraudulent class 1 --> fraudulent
-#### Solving method:- The given problem statement comes under binary classification We have to solve the problem using different machine learning algorithms as well as deep learning algorithms
+#### Solving method:- The given problem statement comes under binary classification We can solve the problem using different machine learning algorithms as well as deep learning algorithms
+
+### Video Tutorial with Code Execution and Explanation:
+ ![](/Images/video1.png) Link: (https://www.youtube.com/watch?v=MhqzJFbJ86U)
 
 # Results
 ![](/Images/eda.png)
